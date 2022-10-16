@@ -5,7 +5,7 @@
   
   Install-Package SqlTableDependency -Version 8.5.8
   
-  and We need to open this setting for MsSql "alter database [<dbname>] set enable_broker with rollback immediate;"
+  We need to open this setting for MsSql "alter database [DBNAME] set enable_broker with rollback immediate;"
   for control "SELECT NAME, is_broker_enabled FROM SYS.DATABASES"
   
   
