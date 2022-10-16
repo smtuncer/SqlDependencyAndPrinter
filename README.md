@@ -1,5 +1,5 @@
 # SqlDependencyAndPrinter
-  I used Version 5.0
+  I used Version 5.0.
   
   For our food ordering site, it automatically prints out the order as it arrives.
   
