@@ -11,5 +11,7 @@
   
   I made the process for adding, but you can trigger the program according to the update or deletion processes.
   
+  Finally.Do not forget to select the default printer on the computer to be used
+  
   
   
